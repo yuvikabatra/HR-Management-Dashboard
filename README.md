@@ -1,1 +1,1 @@
-# HR-Management-Dashboard
+# HR-Management-Dashboard This is a HR-Management Dashboard project using most powerful business analytica tool tableau. This project focuses on real world trends. This dashboard contains beautiful vizualization insights using various kinds of charts like hash table, kpi, bar charts, pie chart bands, slicers,bins and much more. 
